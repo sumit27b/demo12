@@ -1,3 +1,3 @@
 follow this link
-
-https://codepen.io/jacknguyen97/pen/oNNjJbj
+for react cart
+https://bbbootstrap.com/snippets/bootstrap-4-ecommerce-wedding-shopping-cart-page-alerts-41630321
